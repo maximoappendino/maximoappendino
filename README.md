@@ -1,4 +1,4 @@
-## Hi there 👋
+## GREETINGS 👋
 
 My name is Maximo I currently work as a Medical, Financial and Legal Interpreter. I created this github page to promote myself and also have a backup of the programs I make or the config files I edit. I am quite new at programming but still I have got a few dreams to chase.
 I use Arch btw
