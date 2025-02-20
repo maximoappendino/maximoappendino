@@ -5,7 +5,7 @@ I use Arch btw
 
 - 🇪🇸 & 🇬🇧 I speak English and Spanish
 - 🇦🇷 I am from Argentina
-- 👾 I am currently working on a game
+- 👾 I am currently working on a game engine
 - 👁 I am actively looking for a job in regards of coding.
 
 <!--
