@@ -1,12 +1,12 @@
 ## GREETINGS 👋
 
-My name is Maximo I currently work as a Medical, Financial and Legal Interpreter. I created this github page to promote myself and also have a backup of the programs I make or the config files I edit. I am quite new at programming but still I have got a few dreams to chase.
-I use Arch btw
+My name is Maximo I currently work as a Medical, Financial and Legal Interpreter. I created this github page to promote myself and also have a backup of the programs I make or the config files I edit.
 
 - 🇪🇸 & 🇬🇧 I speak English and Spanish
 - 🇦🇷 I am from Argentina
-- 👾 I am currently working on a game engine
-- 👁 I am actively looking for a job in regards of coding.
+- 👁 I am open to participate in some projects or get an interview.
+- 📫 How to reach me: maximoappendinopadilla@gmail.com
+
 
 <!--
 **maximoappendino/maximoappendino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
